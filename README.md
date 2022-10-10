@@ -1,1 +1,1 @@
-# Legal_Entity_Ownership
+# Legal-Entity-Ownership
