@@ -11,4 +11,4 @@ Legal entity ownership extraction is an NLP solution that helps identify and cla
 * Mphasis DeepInsights is a cloud-based cognitive computing platform that offers data extraction & predictive analytics capabilities. Need customized Machine Learning and Deep Learning solutions? Get in touch!
 
 ## Amazon Marketplace Link
-The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-rp5cs44vz46pi?sr=0-7&ref_=beagle&applicationId=AWSMPContessa)
+The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-h2oqybwb4wshc)
